@@ -1,4 +1,4 @@
-# DSD-1-Server
+# Team Dog-Ray
 ## Project
   - Image Processing of Scoliosis (Algorithm 1)
 ## Team Mumber
