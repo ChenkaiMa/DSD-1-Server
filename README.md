@@ -1,6 +1,6 @@
 # DSD-1-Server
 ## Project
-  - Indoor Positioning via Wi-Fi Finger Print (Server)
+  - Image Processing of Scoliosis (Algorithm 1)
 ## Team Mumber
   - 马晨凯（Chenkai Ma）：55171113
   - 刘慧祥（Huixiang Liu）：55171116
